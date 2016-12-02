@@ -55,7 +55,6 @@ def flickr_search(text):
         i += 1
         if i >= num_devices:
             break
-    pool.map(set_or_update_env_var, tasks)
 
 def set_or_update_env_var(device, name, value):
     """ Set or update environment variables for a given device on resin.io

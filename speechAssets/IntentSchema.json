@@ -1,0 +1,9 @@
+{
+    "intents": [{
+        "intent": "SearchIntent",
+        "slots": [{
+            "name": "theme",
+            "type": "AMAZON.EUROPE_CITY"
+        }]
+    }]
+}

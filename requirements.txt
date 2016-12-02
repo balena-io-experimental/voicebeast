@@ -1,0 +1,3 @@
+flask-ask==0.8.2
+flickr_api==0.5
+resin-sdk==1.5.4

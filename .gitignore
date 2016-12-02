@@ -1,0 +1,4 @@
+venv*
+*.pyc
+flickr_keys.py
+resin_config.py
